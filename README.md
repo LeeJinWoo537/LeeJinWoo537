@@ -5,6 +5,31 @@
 
 Here are some ideas to get you started:
 
+🤖 스마트 글래스 프로젝트 (Team)
+- 시각장애인을 위한 스마트 목걸이형 보조기기 개발.
+- Intel RealSense 카메라로 공간 정보를 수집하고, TTS 기반 음성 안내 기능을 통해
+- 위험 감지 및 옷 추천 기능을 제공하는 시스템입니다.
+
+■ 주요 기능
+- Intel RealSense 기반 실시간 거리 인식 및 위험 감지
+- gTTS 기반 음성 안내 및 사용자 상호작용
+- 실시간 영상 수신 및 UI 표시
+- 사용자 음성 입력 → 텍스트 변환 기반 AI 연동 구조 설계
+
+■ 담당 역할 및 기여
+- RealSense 데이터 처리 로직 및 위험 감지 흐름 분석
+- 거리 정보 기반 위험 판단 알고리즘 구조 이해 및 테스트
+- gTTS 기반 음성 출력 플로우 구성 및 실습
+- 음성 입력 → 텍스트 변환 구조 학습 및 적용
+- 프로젝트 코드 구조 분석 및 기능 동작 이해 중심 학습
+
+🔗 관련 링크
+팀 프로젝트 레포: https://github.com/CSeongBeom/INTEL7_TEAM1
+개인 분석 레포: https://github.com/LeeJinWoo537/smart_Glass_code_Analysis
+
+> 본 프로젝트에서 핵심 기능 일부는 팀원 및 참고 코드를 기반으로 하였으며,  
+해당 코드의 동작 원리와 구조를 분석하고 실습 경험을 중심으로 정리했습니다.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
