@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 🔗 관련 링크
 팀 프로젝트 레포: https://github.com/CSeongBeom/INTEL7_TEAM1
+
 개인 분석 레포: https://github.com/LeeJinWoo537/smart_Glass_code_Analysis
 
 > 본 프로젝트에서 핵심 기능 일부는 팀원 및 참고 코드를 기반으로 하였으며,  
