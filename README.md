@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 프로젝트 코드 구조 분석 및 기능 동작 이해 중심 학습
 
 🔗 관련 링크
+
 팀 프로젝트 레포: https://github.com/CSeongBeom/INTEL7_TEAM1
 
 개인 분석 레포: https://github.com/LeeJinWoo537/smart_Glass_code_Analysis
